@@ -1,4 +1,4 @@
-// Kotlin Playground: https://pl.kotl.in/gvS2sqowJ
+// Kotlin Playground atualizado: https://pl.kotl.in/gvS2sqowJ
 
 enum class Nivel { BÁSICO, INTERMEDIÁRIO, AVANÇADO }
 
